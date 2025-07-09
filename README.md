@@ -1,26 +1,30 @@
-# Introduction to JavaScript and DOM Manipulation
+# JavaScript and DOM Manipulation Project
 
-## Objectives
+## Overview
 
-Write basic JavaScript functions.
-Manipulate the DOM dynamically.
-Respond to user interactions.
+This project demonstrates basic JavaScript functions to dynamically manipulate the DOM and respond to user interactions.
 
-## Instructions
+---
 
-- Create a script.js file and link it to a HTML.
-- Structure the document using DOCTYPE, html, head, and body.
+## Features
 
->[!NOTE]
->  - Write JavaScript that:
->  - Changes text content dynamically.
->  - Modifies CSS styles via JavaScript.
->  - Adds or removes an element when a button is clicked.
+- Dynamically change text content.
+- Modify CSS styles via JavaScript.
+- Add or remove an HTML element using a button click.
+- Use semantic and well-structured HTML5 elements.
 
+---
 
-# Tasks
-- Create a well-structured HTML5 document.
-- Use at least 5 different HTML elements.
-- Ensure semantic correctness.
+## HTML Structure
 
-Happy Coding! 💻✨
+- Uses semantic elements: `<header>`, `<nav>`, `<main>`, `<section>`, `<article>`, `<footer>`.
+- Includes 5+ different elements such as `<button>`, `<h1>`, `<p>`, `<small>`.
+- Well-structured with proper use of DOCTYPE, `<html>`, `<head>`, and `<body>`.
+
+---
+
+## JavaScript Functionality
+
+- **Toggle Paragraph:** Adds or removes a paragraph dynamically when a button is clicked.
+- **Change Header Text:** Changes the main header text when a button is clicked.
+- **Change Header Color:** Initially toggled between two colors (blue and black).
